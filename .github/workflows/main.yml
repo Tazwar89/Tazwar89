@@ -2,9 +2,7 @@ name: Metrics
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -21,17 +19,17 @@ jobs:
           # Basic Configuration
           user: ${{ github.repository_owner }}
           template: classic
-          base: header, community, repositories, metadata
+          config_timezone: America/Toronto
+          base: header, repositories
           
           # Languages
           plugin_languages: yes
           plugin_languages_section: most-used
           plugin_languages_limit: 6
+          plugin_languages_indepth: yes
           
           # Achievements
-          #plugin_achievements: yes
-          #plugin_achievements_threshold: B
-          #plugin_achievements_display: compact
+          plugin_achievements: no
 
           # Streaks
           plugin_streak: yes
@@ -40,8 +38,10 @@ jobs:
           plugin_lines: yes
           
           # Activity graph
-          #plugin_activity: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
           
           # Notable repos
           plugin_repositories: yes
-          plugin_repositories_featured: SoundWrapped,StudyAssistant
+          plugin_repositories_featured: Tazwar89/SoundWrapped,Tazwar89/StudyAssistant
+          plugin_repositories_affiliations: owner
