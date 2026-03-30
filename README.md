@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Tazwar%20Sikder&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<p align="center">
-  <b>Full-Stack Developer</b> • Data-driven systems • AI-powered applications
-</p>
+<h3 align="center">
+  Full-Stack Software Developer, building data-driven systems and AI-powered applications
+</h3>
 
 ## Stats
 
