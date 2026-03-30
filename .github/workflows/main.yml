@@ -29,9 +29,9 @@ jobs:
           plugin_languages_limit: 6
           
           # Achievements
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_display: compact
+          #plugin_achievements: yes
+          #plugin_achievements_threshold: B
+          #plugin_achievements_display: compact
 
           # Streaks
           plugin_streak: yes
@@ -40,7 +40,7 @@ jobs:
           plugin_lines: yes
           
           # Activity graph
-          plugin_activity: yes
+          #plugin_activity: yes
           
           # Notable repos
           plugin_repositories: yes
