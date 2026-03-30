@@ -38,6 +38,4 @@ jobs:
           plugin_activity: no
           
           # Notable repos
-          plugin_repositories: yes
-          plugin_repositories_featured: Tazwar89/SoundWrapped,Tazwar89/StudyAssistant
-          plugin_repositories_affiliations: owner
+          plugin_repositories: no
