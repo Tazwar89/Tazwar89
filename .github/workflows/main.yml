@@ -38,8 +38,7 @@ jobs:
           plugin_lines: yes
           
           # Activity graph
-          plugin_activity: yes
-          plugin_activity_limit: 5
+          plugin_activity: no
           
           # Notable repos
           plugin_repositories: yes
