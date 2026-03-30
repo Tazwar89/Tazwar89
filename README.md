@@ -1,16 +1,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Tazwar%20Sikder&fontSize=40&fontColor=ffffff"/>
-  Full-Stack Developer, building data-driven platforms and AI-powered applications
+</p>
+
+<p align="center">
+  <b>Full-Stack Developer</b> • Data-driven systems • AI-powered applications
 </p>
 
 ## Stats
 
-<p align="center"><picture><img src="/github-metrics.svg" alt="Metrics" width="400"></picture></p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tazwar89&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tazwar89&theme=tokyonight" />
-</p>
+<p align="center"><picture><img src="/github-metrics.svg" alt="Metrics" width="45%"></picture></p>
 
 ## Tech Stack
 
@@ -22,3 +20,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="60" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="60" width="60"/>
 </p>
+
+## Projects
+
+### 🎵 SoundWrapped
+Full-stack music analytics platform inspired by Spotify Wrapped.
+
+- Real-time tracking via Last.fm API
+- AI-generated insights and archetypes
+- Interactive analytics dashboard
+
+🔗 https://github.com/Tazwar89/SoundWrapped
+
+---
+
+### 📚 StudyAssistant
+AI-powered productivity and learning platform.
+
+- Task + study tracking system
+- Gemini AI chatbot integration
+- Flashcard generator and library
+
+🔗 https://github.com/Tazwar89/StudyAssistant
