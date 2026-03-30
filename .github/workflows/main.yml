@@ -23,10 +23,7 @@ jobs:
           base: header, repositories
           
           # Languages
-          plugin_languages: yes
-          plugin_languages_section: most-used
-          plugin_languages_limit: 6
-          plugin_languages_indepth: yes
+          plugin_languages: no
           
           # Achievements
           plugin_achievements: no
