@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">Full-Stack Software Developer</h3>
-<p align="center">Building data-driven systems and AI-powered applications</p>
+<p align="center">Building scalable full-stack applications with a focus on data integrity and AI integration</p>
 
 ## Stats
 <div align="center"><img alt="Visitor Stats" src="https://widgetbite.com/stats/<tazwar89>"/></div>
