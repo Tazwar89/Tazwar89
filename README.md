@@ -6,7 +6,7 @@
 <p align="center">Building data-driven systems and AI-powered applications</p>
 
 ## Stats
-
+<div align="center"><img alt="Visitor Stats" src="https://widgetbite.com/stats/<tazwar89>"/></div>
 <p align="center"><picture><img src="/github-metrics.svg" alt="Metrics" width="45%"></picture></p>
 
 ## Tech Stack
