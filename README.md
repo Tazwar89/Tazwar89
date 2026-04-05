@@ -6,7 +6,7 @@
 <p align="center">Building scalable full-stack applications with a focus on data integrity and AI integration</p>
 
 ## Stats
-<div align="center"><img alt="Visitor Stats" src="https://widgetbite.com/stats/<tazwar89>"/></div>
+<p align="center"><a href="https://u8views.com/github/Tazwar89"><img src="https://u8views.com/api/v1/github/profiles/32935388/views/day-week-month-total-count.svg"></a></p>
 <p align="center"><picture><img src="/github-metrics.svg" alt="Metrics" width="45%"></picture></p>
 
 ## Tech Stack
