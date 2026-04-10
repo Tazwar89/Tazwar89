@@ -19,25 +19,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="60" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="60" width="60"/>
 </p>
-
-## Projects
-
-### 🎵 SoundWrapped
-Full-stack music analytics platform inspired by Spotify Wrapped.
-
-- Real-time tracking via Last.fm API
-- AI-generated insights and archetypes
-- Interactive analytics dashboard
-
-🔗 https://github.com/Tazwar89/SoundWrapped
-
----
-
-### 📚 StudyAssistant
-AI-powered productivity and learning platform.
-
-- Task + study tracking system
-- Gemini AI chatbot integration
-- Flashcard generator and library
-
-🔗 https://github.com/Tazwar89/StudyAssistant
